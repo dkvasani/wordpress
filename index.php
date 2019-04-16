@@ -42,6 +42,8 @@ get_header();
 
 		</main><!-- .site-main -->
 	</section><!-- .content-area -->
-echo "hello";
+
 <?php
 get_footer();
+echo "hello";
+echo "dk";
